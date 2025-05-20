@@ -56,7 +56,7 @@ We split the dataset as:
 
 ## ✨ Example Output
 
-![Header](examples/tryon_palak.jpg)
+![Header](asset/tryon_UI.jpeg)
 
 ---
 
